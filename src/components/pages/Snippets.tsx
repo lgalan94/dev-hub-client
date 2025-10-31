@@ -4,7 +4,7 @@ import { mockSnippets } from '../../data/mockData';
 import type { Snippet, Theme } from '../../types';
 import Button from '../ui/Button';
 import Modal from '../ui/Modal';
-import { Card, CardHeader, CardTitle, CardContent, CardDescription } from '../ui/Card';
+import { Card, CardContent } from '../ui/Card';
 import { PlusIcon, EditIcon, TrashIcon, ChevronLeftIcon, CopyIcon } from '../ui/icons';
 import Input from '../ui/Input';
 import Textarea from '../ui/Textarea';
